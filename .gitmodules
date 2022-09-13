@@ -1,0 +1,6 @@
+[submodule "MRE_resource_ingest"]
+	path = MRE_resource_ingest
+	url = https://github.com/jmcvey3/MRE_resource_ingest
+[submodule "WindSentinel_ingest"]
+	path = WindSentinel_ingest
+	url = https://github.com/jmcvey3/WindSentinel_ingest
