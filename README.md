@@ -9,7 +9,8 @@ be run from the command line with `python runner.py <input_file>`.
 
 These submodules are listed as follows:
 
-1. WindSentinel_ingest: Pipelines that ingest processed lidar, IMU, current, and wave data from a Axys WindSentinel Buoy
-2. MRE_resource_ingest: Processing pipelines for raw ADCP, ADV, and Sofar Spotter wave buoy data
+1. Tutorial_pipelines: Repo containing pipelines built in the tsdat tutorials, which are located in https://tsdat.readthedocs.io/en/latest/examples_and_tutorials.html
 
-Full instructions and tutorials to build a pipeline from scratch are located in https://tsdat.readthedocs.io/en/latest/examples_and_tutorials.html
+2. WindSentinel_ingest: Pipelines that ingest processed lidar, IMU, current, and wave data from a Axys WindSentinel Buoy
+
+3. MRE_resource_ingest: Processing pipelines for raw ADCP, ADV, and Sofar Spotter wave buoy data
