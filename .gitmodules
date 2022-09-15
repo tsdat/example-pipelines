@@ -4,3 +4,6 @@
 [submodule "WindSentinel_ingest"]
 	path = WindSentinel_ingest
 	url = https://github.com/jmcvey3/WindSentinel_ingest
+[submodule "tutorial_pipelines"]
+	path = tutorial_pipelines
+	url = https://github.com/jmcvey3/tutorial_pipelines.git
